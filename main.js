@@ -1,7 +1,8 @@
 //npm install express
 var express = require('express');
-//instancia
+
 var app = express();
+//npm install body-parser
 //var bodyParser = require('body-parser');
 
 //app.use(bodyParser.json());
